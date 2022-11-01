@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Creep3d
+- 👋 Hi, I’m @Cybeled
 - 👀 I’m interested in JS, HTML & CSS, Lua 
-- 📫 How to reach me... creep3dout@gmail.com or on discord Creeped#0001 
+- 📫 How to reach me... doseofnothingdaily@gmail.com or on discord Cybel#5355
 - 🔭 Some of my hobby's are... Gaming, Coding, RC racing 
