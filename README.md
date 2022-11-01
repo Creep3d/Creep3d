@@ -2,4 +2,4 @@
 - 👀 I’m interested in JS, HTML & CSS, Lua 
 - 📫 How to reach me... doseofnothingdaily@gmail.com or on discord Cybel#5355
 - 🔭 Some of my hobby's are... Gaming, Coding, RC racing 
-- 🎵 <a href="https://open.spotify.com/playlist/0oEk2TCVADbyOoq37M446C?si=81b20bdb2b6d4b4c"> My Playlist</a>
+- 🎵 <a href="https://open.spotify.com/playlist/0oEk2TCVADbyOoq37M446C?si=81b20bdb2b6d4b4c" target="_blank"> My Playlist</a>
